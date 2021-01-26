@@ -9,7 +9,7 @@
 ```php
 <?php
 
-namespace AshBaker;
+namespace Gogbog;
 
 class About extends Me
 {
