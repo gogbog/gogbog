@@ -38,7 +38,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'Become at the top of the game';
+        return 'Be at the top of the game';
     }
 }
 ```
