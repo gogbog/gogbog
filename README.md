@@ -1,16 +1,48 @@
-### Hi there 👋
+<h2> Hi, I'm Sensei George! <img src="https://media1.giphy.com/media/3N5r5Ks7vo3f2/giphy.gif" width="50"></h2>
+<img align='right' src="https://media4.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47l7tqpnkal0ajb1gxtptrm0b8ragkcwh4de3w6qa2&rid=giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">Fontys University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer / Student 
+</em></p>
 
-<!--
-**gogbog/gogbog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media1.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```php
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getWorkspace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Veniway',
+                'position' => 'Backend Developer'         
+            ]
+        ];
+    }
+
+    public function knowledge(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Java::class,
+            Mysql::class,
+            Docker::class,
+            C#::class,
+            Centos::class,
+            Linux::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'Become at the top of the game';
+    }
+}
+```
+
+
+---
