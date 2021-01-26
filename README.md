@@ -31,7 +31,6 @@ class About extends Me
             Java::class,
             Mysql::class,
             Docker::class,
-            C#::class,
             Centos::class,
             Linux::class,
         ];
