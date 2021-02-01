@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Sensei George! <img src="https://media0.giphy.com/media/oe2xrueDbEbsCTd1iT/giphy.gif?cid=ecf05e47ayooqsbrd6lw3i6sja2b3dy39d7prucmp45k3xjm&rid=giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47l7tqpnkal0ajb1gxtptrm0b8ragkcwh4de3w6qa2&rid=giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://fontys.edu/">Fontys University</a><img src="https://media3.giphy.com/media/Lka9lcOAdjgcqyTnJt/giphy.gif?cid=ecf05e47hq9s5xp5q6efigmaj21sdhwscltp9ijcc6jv0vpm&rid=giphy.gif" width="30"></br>Developer / Student <img src="https://media1.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="60"> 
+<p><em>Software Enginner at <a href="https://fontys.edu/">Fontys University</a><img src="https://i.giphy.com/media/Lka9lcOAdjgcqyTnJt/giphy.webp" width="30"></br>Developer / Student <img src="https://media1.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="60"> 
 </em></p>
 
 
