@@ -1,10 +1,10 @@
 <h2> Hi, I'm Sensei George! <img src="https://media1.giphy.com/media/3N5r5Ks7vo3f2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47l7tqpnkal0ajb1gxtptrm0b8ragkcwh4de3w6qa2&rid=giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">Fontys University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer / Student <img src="https://media1.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="40"> 
+<p><em>Software Enginner at <a href="http://www.unb.br">Fontys University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer / Student <img src="https://media1.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"  height="70"> 
 </em></p>
 
 
-### <img src="https://media1.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="50" height="70"> A little more about me...  
+### <img src="https://media1.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="50"> A little more about me...  
 
 ```php
 <?php
