@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://media1.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="50" height="70"> A little more about me...  
 
 ```php
 <?php
