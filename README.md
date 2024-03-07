@@ -6,41 +6,32 @@
 
 ### <img src="https://media1.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="50"> A little more about me...  
 
-```php
-<?php
+```go
+package gogbog
 
-namespace Gogbog;
+type About struct{}
 
-class About extends Me
-{
-    public function getWorkspace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Veniway',
-                'position' => 'Backend Developer'         
-            ]
-        ];
-    }
-
-    public function knowledge(): array
-    {
-        return [
-            Php::class,
-            Laravel::class,
-            Java::class,
-            Mysql::class,
-            Docker::class,
-            Centos::class,
-            Linux::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'Be at the top of the game';
+func (a *About) GetWorkspace() map[string]interface{} {
+    return map[string]interface{}{
+        "workplace": map[string]interface{}{
+            "company":   "Swisscom",
+            "position":  "DevopsEngineer",
+        },
     }
 }
+
+func (a *About) Knowledge() []string {
+    return []string{
+        "Php",
+        "Laravel",
+        "Java",
+        "Mysql",
+        "Docker",
+        "Centos",
+        "Linux",
+    }
+}
+
 ```
 
 
