@@ -22,13 +22,13 @@ func (a *About) GetWorkspace() map[string]interface{} {
 
 func (a *About) Knowledge() []string {
     return []string{
-        "Php",
+        "Golang",
         "Laravel",
         "Java",
-        "Mysql",
-        "Docker",
-        "Centos",
-        "Linux",
+        "AWS",
+        "Linux"
+        "i3"
+        "Vim"
     }
 }
 
