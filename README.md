@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Georgi! <img src="https://i.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.webp" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47l7tqpnkal0ajb1gxtptrm0b8ragkcwh4de3w6qa2&rid=giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://fontys.edu/">Fontys University</a><img src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=ecf05e47n7hisv4atag75kudoy8gchc0a405sxw3xk6a24t9&rid=giphy.gif" width="30"></br>
+<p><em>Software Enginner in <a href="https://fontys.edu/">The Netherlands</a><img src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=ecf05e47n7hisv4atag75kudoy8gchc0a405sxw3xk6a24t9&rid=giphy.gif" width="30"></br>
 </em></p>
 
 
@@ -14,8 +14,8 @@ type About struct{}
 func (a *About) GetWorkspace() map[string]interface{} {
     return map[string]interface{}{
         "workplace": map[string]interface{}{
-            "company":   "Swisscom",
-            "position":  "DevopsEngineer",
+            "company":   "Freelancer",
+            "position":  "Devops Engineer",
         },
     }
 }
